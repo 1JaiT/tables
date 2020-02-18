@@ -1,0 +1,19 @@
+/* Add your CSS Below */
+.second-child {
+    position: relative;
+    left: 15px;
+    bottom: 10px;
+}
+
+.third-child {
+    position: relative;
+    bottom: 200px;
+    left: 100px;
+}
+
+
+.first-child {
+    position: fixed;
+    right: 132px;
+    bottom: 1px;
+}
